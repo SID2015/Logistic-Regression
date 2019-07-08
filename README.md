@@ -43,15 +43,15 @@ rejected. To help you make the decision, you have a dataset of test results
 on past microchips, from which you can build a logistic regression model
 
 # Plotting the data
-![](/imgs/part2_reg/Data_Plot.png)
+![](/imgs/part2_reg/Data_Plot1.png)
 
 
 # Implementation
-![](/imgs/part2_reg/Implememnt1.png)
+![](/imgs/part2_reg/Implement1.png)
 
 
 # Implementation
-![](/imgs/part2_reg/Implememnt2.png)
+![](/imgs/part2_reg/Implement2.png)
 
 
 # Curve Fitting
