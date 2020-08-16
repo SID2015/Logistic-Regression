@@ -61,4 +61,4 @@ on past microchips, from which you can build a logistic regression model
 
 Dataset 1 --> ex2data1.txt
 
-Dataset 2 --> ex2data1.txt
+Dataset 2 --> ex2data2.txt
